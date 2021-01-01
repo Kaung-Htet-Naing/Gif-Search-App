@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Gif-Search-App/static/css/main.90447aba.chunk.css",
+    "main.js": "/Gif-Search-App/static/js/main.cd338c46.chunk.js",
+    "main.js.map": "/Gif-Search-App/static/js/main.cd338c46.chunk.js.map",
+    "runtime-main.js": "/Gif-Search-App/static/js/runtime-main.6624d900.js",
+    "runtime-main.js.map": "/Gif-Search-App/static/js/runtime-main.6624d900.js.map",
+    "static/js/2.781fe7ee.chunk.js": "/Gif-Search-App/static/js/2.781fe7ee.chunk.js",
+    "static/js/2.781fe7ee.chunk.js.map": "/Gif-Search-App/static/js/2.781fe7ee.chunk.js.map",
+    "index.html": "/Gif-Search-App/index.html",
+    "static/css/main.90447aba.chunk.css.map": "/Gif-Search-App/static/css/main.90447aba.chunk.css.map",
+    "static/js/2.781fe7ee.chunk.js.LICENSE.txt": "/Gif-Search-App/static/js/2.781fe7ee.chunk.js.LICENSE.txt",
+    "static/media/Enter.7f97f7ce.svg": "/Gif-Search-App/static/media/Enter.7f97f7ce.svg",
+    "static/media/arrowLeft.7f97f7ce.svg": "/Gif-Search-App/static/media/arrowLeft.7f97f7ce.svg",
+    "static/media/arrowRight.6b96663a.svg": "/Gif-Search-App/static/media/arrowRight.6b96663a.svg",
+    "static/media/reset.36c212de.svg": "/Gif-Search-App/static/media/reset.36c212de.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6624d900.js",
+    "static/js/2.781fe7ee.chunk.js",
+    "static/css/main.90447aba.chunk.css",
+    "static/js/main.cd338c46.chunk.js"
+  ]
+}
