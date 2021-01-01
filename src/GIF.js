@@ -95,7 +95,6 @@ const Gif = () => {
         return <div>Loading...</div>;
       case data.length > 0:
         return data.map((g, index) => {
-          console.log(g);
           return (
             <div className='gif-card' key={g.id}>
               <img
